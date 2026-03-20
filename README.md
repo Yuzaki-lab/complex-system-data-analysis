@@ -4,10 +4,10 @@ This repository applies mathematical models to real-world data.
 
 ## Projects
 
-### COVID-19 Epidemic Modeling
+# COVID-19 Epidemic Modeling
 This project analyzes COVID-19 epidemic dynamics using the SIR model and real-world data.
 
-# Overview
+## Overview
 
 The classical SIR model is used to simulate infectious disease dynamics.
 Model parameters are estimated by fitting the simulation to real COVID-19 data.
@@ -37,7 +37,7 @@ Dataset used in this repository:
 
 Physics / complex systems simulation using mathematical models.
 
-Features:
+## Features:
 - parameter estimation
 - numerical simulation
 - real data fitting
