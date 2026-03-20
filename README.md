@@ -25,6 +25,11 @@ Dataset used in this repository:
 - Parameter estimation using optimization
 - Numerical simulation with SciPy ODE solver
 
+## Simulation
+
+<img width="800" height="500" alt="SIR_Model_COVID-19" src="https://github.com/user-attachments/assets/31e0233e-13b2-4af0-bac5-3529d23a2cc2" />
+
+
 ## Tools
 
 - Python
